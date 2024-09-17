@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my account that is linked to my college and not my main account <3
 <!--
 **GabrielDege/GabrielDege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
